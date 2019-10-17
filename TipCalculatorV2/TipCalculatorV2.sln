@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculatorLibrary", "TipCalculatorV2\TipCalculatorLibrary.csproj", "{5550D993-A83B-4AC5-8220-65CE5393A6B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipEm", "TipEm\TipEm.csproj", "{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5550D993-A83B-4AC5-8220-65CE5393A6B2}.Debug|x86.ActiveCfg = Debug|x86
+		{5550D993-A83B-4AC5-8220-65CE5393A6B2}.Debug|x86.Build.0 = Debug|x86
+		{5550D993-A83B-4AC5-8220-65CE5393A6B2}.Release|x86.ActiveCfg = Release|x86
+		{5550D993-A83B-4AC5-8220-65CE5393A6B2}.Release|x86.Build.0 = Release|x86
+		{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}.Debug|x86.Build.0 = Debug|Any CPU
+		{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}.Release|x86.ActiveCfg = Release|Any CPU
+		{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

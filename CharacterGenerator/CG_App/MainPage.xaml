@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:CG_App" x:Class="CG_App.MainPage">
+    <StackLayout Orientation="Vertical" VerticalOptions="Start">
+    <Grid HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Padding="50" >
+        <Grid.ColumnDefinitions >
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions> 
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Character Generator" Grid.Row="0" Grid.ColumnSpan="2" HorizontalTextAlignment="Center" FontSize="Large" TextColor="Red"/>
+        <Label Text="Name:" Grid.Row="1" Grid.Column="0"/>
+        <Label Text="Strength:" Grid.Row="2" Grid.Column="0"/>
+        <Label Text="Intelligence:" Grid.Row="3" Grid.Column="0"/>
+        <Label Text="Wisdom:" Grid.Row="4" Grid.Column="0" />
+        <Label Text="Dexterity:" Grid.Row="5" Grid.Column="0" />
+        <Label Text="Constitution:" Grid.Row="6" Grid.Column="0" />
+        <Label Text="Charisma:" Grid.Row="7" Grid.Column="0" />
+        <Label x:Name="lblName" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="lblStrength" Grid.Row="2" Grid.Column="1" />
+        <Label x:Name="lblIntelligence" Grid.Row="3" Grid.Column="1"/>
+        <Label x:Name="lblWisdom" Grid.Row="4" Grid.Column="1" />
+        <Label x:Name="lblDexterity" Grid.Row="5" Grid.Column="1" />
+        <Label x:Name="lblConstitution" Grid.Row="6" Grid.Column="1" />
+        <Label x:Name="lblCharisma" Grid.Row="7" Grid.Column="1" />
+        <Button Text="Create Character" Clicked="Handle_Clicked" Grid.Row="8" Grid.ColumnSpan="2" />
+    </Grid>
+        <Label x:Name="lblClassSuggestion" HorizontalOptions="CenterAndExpand" TextColor="Green" VerticalOptions="StartAndExpand"/>
+        <Button Text="Inventory" x:Name="btnInventory" Clicked="Handle_Clicked_1" IsEnabled="false" VerticalOptions="End"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,6 @@
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/bin/Debug/FortuneCookie.exe
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/bin/Debug/FortuneCookie.pdb
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/obj/x86/Debug/FortuneCookie.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/obj/x86/Debug/FortuneCookie.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/obj/x86/Debug/FortuneCookie.exe
+/Users/ptumulty/Documents/Visual Studios/FortuneCookie/FortuneCookie/obj/x86/Debug/FortuneCookie.pdb

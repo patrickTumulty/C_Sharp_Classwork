@@ -1,0 +1,6 @@
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/bin/Debug/AdventureGameV2.exe
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/bin/Debug/AdventureGameV2.pdb
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/obj/x86/Debug/AdventureGameV2.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/obj/x86/Debug/AdventureGameV2.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/obj/x86/Debug/AdventureGameV2.exe
+/Users/ptumulty/Documents/Visual Studios/AdventureGameV2/AdventureGameV2/obj/x86/Debug/AdventureGameV2.pdb

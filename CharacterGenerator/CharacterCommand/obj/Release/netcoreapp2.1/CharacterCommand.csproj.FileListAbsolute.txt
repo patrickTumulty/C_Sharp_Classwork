@@ -1,0 +1,14 @@
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterCommand.deps.json
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterCommand.runtimeconfig.json
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterCommand.runtimeconfig.dev.json
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterCommand.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterCommand.pdb
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterLibrary.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/bin/Release/netcoreapp2.1/CharacterLibrary.pdb
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.AssemblyInfoInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.AssemblyInfo.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.csproj.CopyComplete
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterCommand/obj/Release/netcoreapp2.1/CharacterCommand.pdb

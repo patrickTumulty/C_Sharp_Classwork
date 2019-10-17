@@ -1,0 +1,5 @@
+/Users/ptumulty/Documents/Visual Studios/TipCalculatorV2/TipCalculatorV2/bin/Debug/TipCalculatorV2.exe
+/Users/ptumulty/Documents/Visual Studios/TipCalculatorV2/TipCalculatorV2/bin/Debug/TipCalculatorV2.pdb
+/Users/ptumulty/Documents/Visual Studios/TipCalculatorV2/TipCalculatorV2/obj/x86/Debug/TipCalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/TipCalculatorV2/TipCalculatorV2/obj/x86/Debug/TipCalculatorV2.exe
+/Users/ptumulty/Documents/Visual Studios/TipCalculatorV2/TipCalculatorV2/obj/x86/Debug/TipCalculatorV2.pdb

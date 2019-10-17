@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BCE9DE1F-D9A4-4089-BB2D-4A5D77671C1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CharacterCommand PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CG__App.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CharacterLibrary/Character.cs">
+    <Files>
+      <File FileName="CharacterLibrary/Character.cs" Line="18" Column="1" />
+      <File FileName="CG_App/App.xaml.cs" Line="13" Column="59" />
+      <File FileName="CG_App/MainPage.xaml" />
+      <File FileName="CG_App/InventoryPage.xaml" />
+      <File FileName="CG_App/InventoryPage.xaml.cs" Line="23" Column="1" />
+      <File FileName="CharacterLibrary/InventoryItem.cs" Line="17" Column="14" />
+      <File FileName="CG_App/MainPage.xaml.cs" Line="43" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CharacterGenerator" expanded="True">
+            <Node name="CG_App" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="InventoryPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="CharacterLibrary" expanded="True">
+              <Node name="Character.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CG__App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C94D16EE-64EE-49DD-9EDA-5905955027B8" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

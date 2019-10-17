@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3A1D6896-F7F7-4657-AC8F-A25A87D7235F}|Default">
+  <MonoDevelop.Ide.ItemProperties.AdventureGameV2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdventureGameV2/Game.cs">
+    <Files>
+      <File FileName="AdventureGameV2/Program.cs" Line="17" Column="1" />
+      <File FileName="AdventureGameV2/Character.cs" Line="17" Column="1" />
+      <File FileName="AdventureGameV2/Game.cs" Line="138" Column="30" />
+      <File FileName="AdventureGameV2/Utility.cs" Line="11" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdventureGameV2" expanded="True">
+            <Node name="AdventureGameV2" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

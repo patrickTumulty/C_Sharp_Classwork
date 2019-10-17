@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FB8994A8-632C-44C8-BF0D-FC7797CE6D16}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayerClass.cs">
+    <Files>
+      <File FileName="PlayerClass.cs" Line="19" Column="9" />
+      <File FileName="termDefs.cs" Line="1" Column="1" />
+      <File FileName="Topic.cs" Line="17" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.StudyApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

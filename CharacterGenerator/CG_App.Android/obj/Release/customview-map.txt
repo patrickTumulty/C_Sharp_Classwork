@@ -1,0 +1,45 @@
+@string/appbar_scrolling_view_behavior;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/shellcontent.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/enterfromleft.xml
+alpha;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Release/res/layout/tabbar.xml
+android.support.v4.widget.NestedScrollView;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+android.support.v4.widget.NestedScrollView;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/shellcontent.xml
+android.support.v7.widget.RecyclerView;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Release/res/layout/toolbar.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon.xml
+background;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/24/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Release/res/values/colors.xml
+external-cache-path;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/24/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/24/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/bottomtablayout.xml
+item;obj/Release/res/values/styles.xml
+LinearLayout;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/layout/bottomtablayout.xml
+paths;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/24/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;obj/Release/res/values/colors.xml
+resources;obj/Release/res/values/styles.xml
+set;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/enterfromleft.xml
+set;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/enterfromright.xml
+set;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/exittoleft.xml
+set;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/exittoright.xml
+style;obj/Release/res/values/styles.xml
+translate;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/enterfromleft.xml
+translate;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/enterfromright.xml
+translate;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/exittoleft.xml
+translate;/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App.Android/obj/Release/lp/26/jl/res/anim/exittoright.xml

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A9EFFCF4-6D3A-43D6-976A-4A39BDF27650}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculatorV2/Program.cs">
+    <Files>
+      <File FileName="TipCalculatorV2/Program.cs" Line="2" Column="1" />
+      <File FileName="TipCalculatorV2/dollarAmount.cs" Line="13" Column="10" />
+      <File FileName="TipEm/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TipCalculatorV2" expanded="True">
+            <Node name="TipCalculatorLibrary" expanded="True" />
+            <Node name="TipEm" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TipEm PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.ItemProperties.TipCalculatorLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

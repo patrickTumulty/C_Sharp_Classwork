@@ -1,0 +1,16 @@
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/bin/Debug/netstandard2.0/CG_App.deps.json
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/bin/Debug/netstandard2.0/CG_App.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/bin/Debug/netstandard2.0/CG_App.pdb
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/bin/Debug/netstandard2.0/CharacterLibrary.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/bin/Debug/netstandard2.0/CharacterLibrary.pdb
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/InventoryPage.xaml.g.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.AssemblyInfoInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.AssemblyInfo.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.csproj.CopyComplete
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CG_App/obj/Debug/netstandard2.0/CG_App.pdb

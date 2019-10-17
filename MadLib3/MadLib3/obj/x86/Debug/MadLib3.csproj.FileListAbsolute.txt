@@ -1,0 +1,6 @@
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/bin/Debug/MadLib3.exe
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/bin/Debug/MadLib3.pdb
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/obj/x86/Debug/MadLib3.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/obj/x86/Debug/MadLib3.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/obj/x86/Debug/MadLib3.exe
+/Users/ptumulty/Documents/Visual Studios/MadLib3/MadLib3/obj/x86/Debug/MadLib3.pdb

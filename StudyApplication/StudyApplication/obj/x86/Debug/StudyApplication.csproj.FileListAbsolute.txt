@@ -1,0 +1,6 @@
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/bin/Debug/StudyApplication.exe
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/bin/Debug/StudyApplication.pdb
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/obj/x86/Debug/StudyApplication.csprojAssemblyReference.cache
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/obj/x86/Debug/StudyApplication.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/obj/x86/Debug/StudyApplication.exe
+/Users/ptumulty/Documents/Visual Studios/StudyApplication/StudyApplication/obj/x86/Debug/StudyApplication.pdb

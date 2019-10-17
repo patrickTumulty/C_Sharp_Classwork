@@ -1,0 +1,8 @@
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/bin/Release/netstandard2.0/CharacterLibrary.deps.json
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/bin/Release/netstandard2.0/CharacterLibrary.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/bin/Release/netstandard2.0/CharacterLibrary.pdb
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/obj/Release/netstandard2.0/CharacterLibrary.csproj.CoreCompileInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/obj/Release/netstandard2.0/CharacterLibrary.AssemblyInfoInputs.cache
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/obj/Release/netstandard2.0/CharacterLibrary.AssemblyInfo.cs
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/obj/Release/netstandard2.0/CharacterLibrary.dll
+/Users/ptumulty/Documents/Visual Studios/CharacterGenerator/CharacterLibrary/obj/Release/netstandard2.0/CharacterLibrary.pdb

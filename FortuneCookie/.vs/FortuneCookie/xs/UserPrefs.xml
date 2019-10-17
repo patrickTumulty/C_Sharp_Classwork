@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{DE3C5CF4-62E1-4905-80CE-B4622AFD10E2}|Default">
+  <MonoDevelop.Ide.ItemProperties.FortuneCookie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FortuneCookie/Fortune.cs">
+    <Files>
+      <File FileName="FortuneCookie/Program.cs" Line="14" Column="19" />
+      <File FileName="FortuneCookie/Fortune.cs" Line="102" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FortuneCookie" expanded="True">
+            <Node name="FortuneCookie" expanded="True">
+              <Node name="Fortune.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
